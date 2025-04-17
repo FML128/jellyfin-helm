@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   jellyfin:
   - apiVersion: v2
-    appVersion: 10.10.6
-    created: "2025-04-17T10:56:20.378497105+02:00"
+    appVersion: 10.10.7
+    created: "2025-04-17T11:21:36.080199627+02:00"
     description: A Helm chart for Jellyfin Media Server
-    digest: 04dd1d5cec2063b95db0a03c5d24dc8663cc9f2fb849eceb42e7ba83832eae66
+    digest: 2da755ee870f919426b779b524497ec4e6a1664fec4ce97b4f7965f8aefbc43d
     home: https://jellyfin.org/
     icon: https://jellyfin.org/images/logo.svg
     keywords:
@@ -15,6 +15,6 @@ entries:
     name: jellyfin
     type: application
     urls:
-    - jellyfin-2.3.0.tgz
-    version: 2.3.0
-generated: "2025-04-17T10:56:20.377209967+02:00"
+    - jellyfin-2.3.1.tgz
+    version: 2.3.1
+generated: "2025-04-17T11:21:36.078795703+02:00"
